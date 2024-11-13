@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-AdvTown2-1.0";
 const contentToCache = [
-    "Build/冒险小镇.loader.js",
-    "Build/冒险小镇.framework.js",
-    "Build/冒险小镇.data",
-    "Build/冒险小镇.wasm",
+    "Build/AdvTown2.loader.js",
+    "Build/AdvTown2.framework.js",
+    "Build/AdvTown2.data",
+    "Build/AdvTown2.wasm",
     "TemplateData/style.css"
 
 ];
