@@ -1,0 +1,6 @@
+﻿Key,Text_cn,Text_en,DisplayTime
+Story_Start,睁开双眼，你又回到了那个你熟悉的世界…,睁开双眼，你又回到了那个你熟悉的世界…,3
+RESOURCE_ADDED,[{0} {1}] 资源已添加到仓库,[{0} {1}] resources added to storage,3
+ALLREQUIREMENTSMET_NOT,建筑 {0} 升级到 {1} 级失败,,3
+BATTLE_WIN,战斗胜利！,Battle Won!,3
+BATTLE_LOSE,战斗失败！,Battle Lost!,3

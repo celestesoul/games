@@ -1,0 +1,52 @@
+{
+    "items": [
+        {
+            "key": "Wood",
+            "value": "Wood"
+        },
+        {
+            "key": "Meat",
+            "value": "Meat"
+        },
+        {
+            "key": "Food",
+            "value": "Food"
+        },
+        {
+            "key": "Stone",
+            "value": "Stone"
+        },
+        {
+            "key": "Flint",
+            "value": "Flint"
+        },
+        {
+            "key": "Fur",
+            "value": "Fur"
+        },
+        {
+            "key": "Torch",
+            "value": "Torch"
+        },
+        {
+            "key": "Roast",
+            "value": "Roast"
+        },
+        {
+            "key": "Iron",
+            "value": "Iron"
+        },
+        {
+            "key": "Leather",
+            "value": "Leather"
+        },
+        {
+            "key": "Teeth",
+            "value": "Teeth"
+        },
+        {
+            "key": "Bone",
+            "value": "Bone"
+        }
+    ]
+}
