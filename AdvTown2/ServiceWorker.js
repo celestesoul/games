@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-AdvTown2-1.0";
+const cacheName = "Chao-AdvTown2-1.0";
 const contentToCache = [
     "Build/AdvTown2.loader.js",
     "Build/AdvTown2.framework.js",
