@@ -1,4 +1,4 @@
 ﻿Key,Name_cn,Name_en,UnlockType,UnlockValue
-Workshop,工坊,Workshop,TownHallLevel,1
-Blacksmith,铁匠铺,Blacksmith,TownHallLevel,1
-Adventure,探险,Adventure,TownHallLevel,1
+Workshop,工坊,Workshop,TownHallLevel,3
+Blacksmith,铁匠铺,Blacksmith,TownHallLevel,4
+Adventure,探险,Adventure,TownHallLevel,2

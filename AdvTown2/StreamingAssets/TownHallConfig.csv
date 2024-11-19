@@ -2,7 +2,7 @@
 TownHall,0,Wood:0,,Wood:0,3,2,1,1,城镇,TownHall,+20 木头,+20 wood,TRUE,帐篷:1;伙房:1
 TownHall,1,Wood:5,,Wood:1,8,2,1,1,城镇,TownHall,+21 木头,+21 wood,TRUE,帐篷:1;伙房:1
 TownHall,2,Wood:40;Food:10,,Wood:2,8,4,2,1,城镇,TownHall,+22 木头,+22 wood,TRUE,帐篷:1;伙房:1
-TownHall,3,Wood:120;Food:40,,Wood:4,8,6,3,1,城镇,TownHall,+23 木头,+23 wood,TRUE,帐篷:1;伙房:1
+TownHall,3,Wood:150;Food:20,,Wood:4,8,6,3,1,城镇,TownHall,+23 木头,+23 wood,TRUE,帐篷:1;伙房:1
 TownHall,4,Wood:400,,Wood:10,10,12,4,1,城镇,TownHall,+24 木头,+24 wood,TRUE,帐篷:1;伙房:1
 TownHall,5,Wood:1000,,Wood:24,12,24,5,1,城镇,TownHall,+25 木头,+25 wood,TRUE,帐篷:1;伙房:1
 TownHall,6,Wood:4000,,Wood:50,15,48,6,1,城镇,TownHall,+26 木头,+26 wood,TRUE,帐篷:1;伙房:1
