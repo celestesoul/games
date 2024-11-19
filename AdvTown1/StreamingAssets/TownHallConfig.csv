@@ -1,0 +1,18 @@
+﻿Name,Level,Cost,ProductionCost,ProductionReward,ProductionTime,BuildTime,PopulationLimit,Order,Title_cn,Title_en,Desc_cn,Desc_en,HasWorker,BuildRequire
+TownHall,0,Wood:0,,Wood:0,3,2,1,1,城镇,TownHall,+20 木头,+20 wood,TRUE,帐篷:1;伙房:1
+TownHall,1,Wood:5,,Wood:1,8,2,1,1,城镇,TownHall,+21 木头,+21 wood,TRUE,帐篷:1;伙房:1
+TownHall,2,Wood:40;Food:10,,Wood:2,8,4,2,1,城镇,TownHall,+22 木头,+22 wood,TRUE,帐篷:1;伙房:1
+TownHall,3,Wood:120;Food:40,,Wood:4,8,6,3,1,城镇,TownHall,+23 木头,+23 wood,TRUE,帐篷:1;伙房:1
+TownHall,4,Wood:400,,Wood:10,10,12,4,1,城镇,TownHall,+24 木头,+24 wood,TRUE,帐篷:1;伙房:1
+TownHall,5,Wood:1000,,Wood:24,12,24,5,1,城镇,TownHall,+25 木头,+25 wood,TRUE,帐篷:1;伙房:1
+TownHall,6,Wood:4000,,Wood:50,15,48,6,1,城镇,TownHall,+26 木头,+26 wood,TRUE,帐篷:1;伙房:1
+TownHall,7,Wood:10000,,Wood:80,15,96,7,1,城镇,TownHall,+27 木头,+27 wood,TRUE,帐篷:1;伙房:1
+TownHall,8,Wood:20000,,Wood:150,15,200,8,1,城镇,TownHall,+28 木头,+28 wood,TRUE,帐篷:1;伙房:1
+TownHall,9,Wood:30000,,Wood:300,15,400,9,1,城镇,TownHall,+29 木头,+29 wood,TRUE,帐篷:1;伙房:1
+TownHall,10,Wood:40000,,Wood:600,15,600,10,1,城镇,TownHall,+30 木头,+30 wood,TRUE,帐篷:1;伙房:1
+TownHall,11,Wood:50000,,Wood:800,15,1200,11,1,城镇,TownHall,+31 木头,+31 wood,TRUE,帐篷:1;伙房:1
+TownHall,12,Wood:50000,,Wood:800,14,1200,12,1,城镇,TownHall,+32 木头,+32 wood,TRUE,帐篷:1;伙房:1
+TownHall,13,Wood:50000,,Wood:800,15,1200,13,1,城镇,TownHall,+33 木头,+33 wood,TRUE,帐篷:1;伙房:1
+TownHall,14,Wood:50000,,Wood:800,16,1200,14,1,城镇,TownHall,+34 木头,+34 wood,TRUE,帐篷:1;伙房:1
+TownHall,15,Wood:50000,,Wood:800,17,1200,15,1,城镇,TownHall,+35 木头,+35 wood,TRUE,帐篷:1;伙房:1
+TownHall,16,Wood:50000,,Wood:800,18,1200,16,1,城镇,TownHall,+36 木头,+36 wood,TRUE,帐篷:1;伙房:1

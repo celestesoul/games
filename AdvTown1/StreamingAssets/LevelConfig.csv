@@ -1,0 +1,17 @@
+﻿Name,Level,GridCount,Cost,RewardResourceWeight,RewardLossWeight,RewardEnemyWeight,RewardEquipWeight,RewardResourceContent,RewardLossContent,EnemyName,EnemyHp,EnemyAtk,EnemyDef,EnemySpd
+Adventure1,1,6,Wood:1,20,20,20,20,Wood:1;Food:1;Wood:2;Food:2,Wood:1;Food:1;Wood:2;Food:2,Bird;Dragon,20|50,20|30,5|10,50|60
+Adventure2,2,8,Wood:2,20,20,20,20,Wood:1;Food:1;Wood:2;Food:2,Wood:1;Food:1;Wood:2;Food:2,Bird;Dragon,20|50,20|30,5|11,50|61
+Adventure3,3,10,Wood:3,20,20,20,20,Wood:1;Food:1;Wood:2;Food:2,Wood:1;Food:1;Wood:2;Food:2,Bird;Dragon,20|50,20|30,5|12,50|62
+Adventure4,4,12,Wood:4,20,20,20,20,Wood:1;Food:1;Wood:2;Food:2,Wood:1;Food:1;Wood:2;Food:2,Bird;Dragon,20|50,20|30,5|13,50|63
+Adventure5,5,14,Wood:5,20,20,20,20,Wood:1;Food:1;Wood:2;Food:2,Wood:1;Food:1;Wood:2;Food:2,Bird;Dragon,20|50,20|30,5|14,50|64
+Adventure6,6,16,Wood:6,20,20,20,20,Wood:1;Food:1;Wood:2;Food:2,Wood:1;Food:1;Wood:2;Food:2,Bird;Dragon,20|50,20|30,5|15,50|65
+Adventure7,7,18,Wood:7,20,20,20,20,Wood:1;Food:1;Wood:2;Food:2,Wood:1;Food:1;Wood:2;Food:2,Bird;Dragon,20|50,20|30,5|16,50|66
+Adventure8,8,20,Wood:8,20,20,20,20,Wood:1;Food:1;Wood:2;Food:2,Wood:1;Food:1;Wood:2;Food:2,Bird;Dragon,20|50,20|30,5|17,50|67
+Adventure9,9,20,Wood:9,20,20,20,20,Wood:1;Food:1;Wood:2;Food:2,Wood:1;Food:1;Wood:2;Food:2,Bird;Dragon,20|50,20|30,5|18,50|68
+Adventure10,10,20,Wood:10,20,20,20,20,Wood:1;Food:1;Wood:2;Food:2,Wood:1;Food:1;Wood:2;Food:2,Bird;Dragon,20|50,20|30,5|19,50|69
+Adventure11,11,20,Wood:11,20,20,20,20,Wood:1;Food:1;Wood:2;Food:2,Wood:1;Food:1;Wood:2;Food:2,Bird;Dragon,20|50,20|30,5|20,50|70
+Adventure12,12,20,Wood:12,20,20,20,20,Wood:1;Food:1;Wood:2;Food:2,Wood:1;Food:1;Wood:2;Food:2,Bird;Dragon,20|50,20|30,5|21,50|71
+Adventure13,13,20,Wood:13,20,20,20,20,Wood:1;Food:1;Wood:2;Food:2,Wood:1;Food:1;Wood:2;Food:2,Bird;Dragon,20|50,20|30,5|22,50|72
+Adventure14,14,20,Wood:14,20,20,20,20,Wood:1;Food:1;Wood:2;Food:2,Wood:1;Food:1;Wood:2;Food:2,Bird;Dragon,20|50,20|30,5|23,50|73
+Adventure15,15,20,Wood:15,20,20,20,20,Wood:1;Food:1;Wood:2;Food:2,Wood:1;Food:1;Wood:2;Food:2,Bird;Dragon,20|50,20|30,5|24,50|74
+Adventure16,16,20,Wood:16,20,20,20,20,Wood:1;Food:1;Wood:2;Food:2,Wood:1;Food:1;Wood:2;Food:2,Bird;Dragon,20|50,20|30,5|25,50|75

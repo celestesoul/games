@@ -1,0 +1,52 @@
+{
+    "items": [
+        {
+            "key": "Wood",
+            "value": "木头"
+        },
+        {
+            "key": "Meat",
+            "value": "生肉"
+        },
+        {
+            "key": "Food",
+            "value": "食物"
+        },
+        {
+            "key": "Stone",
+            "value": "石头"
+        },
+        {
+            "key": "Flint",
+            "value": "燧石"
+        },
+        {
+            "key": "Fur",
+            "value": "毛皮"
+        },
+        {
+            "key": "Torch",
+            "value": "火炬"
+        },
+        {
+            "key": "Roast",
+            "value": "烤肉"
+        },
+        {
+            "key": "Iron",
+            "value": "铁"
+        },
+        {
+            "key": "Leather",
+            "value": "皮革"
+        },
+        {
+            "key": "Teeth",
+            "value": "兽牙"
+        },
+        {
+            "key": "Bone",
+            "value": "骨头"
+        }
+    ]
+}

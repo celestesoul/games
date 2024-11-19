@@ -1,0 +1,13 @@
+﻿Key,Text_cn,Text_en,DisplayTime,NextWriterKey
+Story_Start,睁开双眼，你又回到了那个你熟悉的世界…,睁开双眼，你又回到了那个你熟悉的世界…,3,
+RESOURCE_ADDED,{0} {1} 已放入仓库,[{0} {1}] resources added to storage,2,
+ALLREQUIREMENTSMET_NOT,建筑 {0} 升级到 {1} 级失败,,3,
+BATTLE_WIN,战斗胜利！,Battle Won!,3,
+BATTLE_LOSE,战斗失败！,Battle Lost!,3,
+building_complete,{0}建造完成,{0}建造完成,3,
+resource_added,{0}资源已添加到仓库,{0}资源已添加到仓库,3,
+Story_Begin,某年的一天\n你无聊上班之际\n不小心开着电脑睡着了\n而当你醒来时…,宣和元年\n春和景明\n此时距离北宋亡国\n还有2638天,2,Story_Begin_Writer
+Story_Begin_Writer,你穿越到了文字小镇，手里只有一把斧头，看来只能从砍树做起了…,你穿越到了北宋汴京。手里只有一个破碗，你需要靠着它拯救这个时代。,5,
+Adventure_Begin,收拾好行李，你出发游历江湖,,1,Adventure_Begin_Writer
+Adventure_Begin_Writer,收拾好行李，你出发游历江湖,,5,
+Intro_Puxi,杭州城内外，户口浩繁，州府广阔，遇坊巷桥门及隐僻去处，俱有铺席买卖。盖人家每日不可阙者，柴米油盐酱醋茶。或稍丰厚者，下饭羹汤，尤不可无。虽贫下之人，亦不可免。,,,
